@@ -1,13 +1,11 @@
 <template>
   <div id="app">
-    <!--<img alt="Vue logo" src="./assets/iqah1.jpeg"> -->
-    <HelloWorld msg="Nur Syafiqah Binti Abdullah"/>
+    <HelloWorld/>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
 export default {
   name: 'App',
   components: {

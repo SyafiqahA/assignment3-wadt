@@ -5,14 +5,14 @@
   </div>
   <form class="flex-auto py-7 px-8">
     <div class="flex flex-wrap items-baseline">
-      <h3 class="w-full flex-none text-3xl text-black mb-1.5">
+      <h3 class="w-full flex-none text-3xl  text-blue-900 mb-1.5">
         Nur Syafiqah binti Abdullah
       </h3>
       <div class="text-sm text-gray-500 ml-3">
         Hobbies: 
       </div>
     </div>
-    <p class="text-sm text-red-500">
+    <p class="text-sm text-red-700">
       Watching korean drama and reading
     </p>
   </form>
